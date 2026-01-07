@@ -41,29 +41,31 @@ The system predicts the category of waste and assists in routing it to the appro
 
 ### 🌱 Home / Landing Page
 <p align="center">
-  <img src="screenshots/hero-section.png" width="900">
+  <img src="./screenshots/hero-section.png" width="900">
 </p>
 
 ---
 
 ### 🗂️ Waste Categories Supported
 <p align="center">
-  <img src="screenshots/waste-categories.png" width="900">
+  <img src="./screenshots/waste-categories.png" width="900">
 </p>
 
 ---
 
 ### ♻️ Wet Waste Classification Result
 <p align="center">
-  <img src="screenshots/wet-waste-result.png" width="900">
+  <img src="./screenshots/wet-waste-result.png" width="900">
 </p>
 
 ---
 
 ### ⚠️ Hazardous Waste Classification Result
 <p align="center">
-  <img src="screenshots/hazardous-waste-result.png" width="900">
+  <img src="./screenshots/hazardous-waste-result.png" width="900">
 </p>
+
+
 
 
 
