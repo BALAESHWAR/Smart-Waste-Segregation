@@ -37,7 +37,7 @@ The system predicts the category of waste and assists in routing it to the appro
 - **Tools:** Jupyter Notebook, GitHub
 
 
-  ## 📸 Application Screenshots
+## 📸 Application Screenshots
 
 ### 🌱 Home / Landing Page
 <p align="center">
@@ -64,6 +64,7 @@ The system predicts the category of waste and assists in routing it to the appro
 <p align="center">
   <img src="screenshots/hazardous-waste-result.png" width="900">
 </p>
+
 
 
 
