@@ -41,29 +41,30 @@ The system predicts the category of waste and assists in routing it to the appro
 
 ### 🌱 Home / Landing Page
 <p align="center">
-  <img src="./screenshots/hero-section.png" width="900">
+  <img src="https://raw.githubusercontent.com/BALAESHWAR/Smart-Waste-Segregation/main/screenshots/hero-section.jpg" width="900">
 </p>
 
 ---
 
 ### 🗂️ Waste Categories Supported
 <p align="center">
-  <img src="./screenshots/waste-categories.png" width="900">
+  <img src="https://github.com/BALAESHWAR/Smart-Waste-Segregation/blob/main/screenshots/waste-categories.jpg?raw=true" width="900">
 </p>
 
 ---
 
 ### ♻️ Wet Waste Classification Result
 <p align="center">
-  <img src="./screenshots/wet-waste-result.png" width="900">
+  <img src="https://github.com/BALAESHWAR/Smart-Waste-Segregation/blob/main/screenshots/wet-waste-result.jpg?raw=true" width="900">
 </p>
 
 ---
 
 ### ⚠️ Hazardous Waste Classification Result
 <p align="center">
-  <img src="./screenshots/hazardous-waste-result.png" width="900">
+  <img src="https://github.com/BALAESHWAR/Smart-Waste-Segregation/blob/main/screenshots/hazardous-waste-result.jpg?raw=true" width="900">
 </p>
+
 
 
 
